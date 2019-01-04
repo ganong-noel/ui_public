@@ -1,0 +1,26 @@
+"","ce_group","ce_category","jpmc_spend_month","share_jpmc_month","ce_spend","share_ce","ratio_jpmc_ce_month"
+"1","ND","Alcoholic beverages",8,0.01,43,0.01,0.2
+"2","ND","Apparel and services",59,0.05,154,0.03,0.38
+"3","ND","Drugs",13,0.01,35,0.01,0.37
+"4","ND","Food at home",181,0.14,335,0.07,0.54
+"5","ND","Food away from home",139,0.11,251,0.05,0.56
+"6","ND","Gasoline and motor oil",59,0.05,174,0.04,0.34
+"7","ND","Household operations",14,0.01,109,0.02,0.12
+"8","ND","Medical",26,0.02,78,0.02,0.33
+"9","ND","Miscellaneous",34,0.03,73,0.02,0.46
+"10","ND","Personal care products and services",44,0.03,57,0.01,0.77
+"11","ND","Pets, toys, hobbies, and playground equipment",25,0.02,54,0.01,0.46
+"12","ND","Public and other transportation",24,0.02,55,0.01,0.44
+"13","ND","Reading",1,0,10,0,0.09
+"14","ND","Tobacco products and smoking supplies",2,0,29,0.01,0.07
+"15","ND","Utilities, fuels, and public services",138,0.11,324,0.07,0.43
+"16","D","Education",11,0.01,110,0.02,0.1
+"17","D","Fees and admissions",20,0.02,54,0.01,0.37
+"18","D","Household furnishings and equipment",59,0.05,152,0.03,0.39
+"19","D","Housekeeping supplies",98,0.08,55,0.01,1.8
+"20","D","Other entertainment supplies, equipment, and services",39,0.03,38,0.01,1.04
+"21","D","Other lodging",13,0.01,61,0.01,0.21
+"22","D","Other vehicle expenses",56,0.04,230,0.05,0.24
+"23","D","Vehicle rental, leases, licenses, and other charges",9,0.01,52,0.01,0.18
+"24","Others","Not comparable",174,0.14,2186,0.46,0.08
+"25","Others","Uncategorized consumption",37,0.03,0,0,Inf

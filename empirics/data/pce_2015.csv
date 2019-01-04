@@ -1,0 +1,413 @@
+"Table 2.4.5U. Personal Consumption Expenditures by Type of Product"
+"[Millions of dollars; quarters and months are seasonally adjusted at annual rates]" 
+"Bureau of Economic Analysis" 
+"Last Revised on: August 03, 2017 - Next Release Date August 31, 2017"
+"Line"," ","Series Name","2014","2015","2016"
+"1","            Personal consumption expenditures","DPCERC",11863669,12332257,12820694
+"2","Goods","DGDSRC",3970453,4033158,4121418
+"3","    Durable goods","DDURRC",1296383,1367137,1411006
+"4","        Motor vehicles and parts","DMOTRC",441874,472169,480792
+"5","            New motor vehicles (55)","DNMVRC",266287,277323,273386
+"6","                New autos","DNEARC",94273,85219,75884
+"7","                    New domestic autos","DNDCRC",66391,61484,55539
+"8","                    New foreign autos","DNFCRC",27882,23735,20345
+"9","                New light trucks","DNWTRC",172014,192103,197502
+"10","            Net purchases of used motor vehicles (56)","DNPVRC",109905,125951,136389
+"11","                Used autos","DNPURC",49652,56254,56553
+"12","                    Net transactions in used autos","DNETRC",25336,30378,30855
+"13","                    Used auto margin","DMARRC",26051,27611,27433
+"14","                    Employee reimbursement","DREERC",-1735,-1735,-1735
+"15","                Used light trucks","DUTRRC",60254,69697,79836
+"16","                    Net transactions in used trucks","DUTNRC",42097,48119,55600
+"17","                    Used truck margin","DUTMRC",18157,21578,24236
+"18","            Motor vehicle parts and accessories (58)","DMVPRC",65682,68895,71017
+"19","                Tires","DTATRC",26053,26638,27254
+"20","                Accessories and parts","DPAARC",39629,42257,43763
+"21","        Furnishings and durable household equipment","DFDHRC",294270,311516,325154
+"22","            Furniture and furnishings (parts of 31 and 32)","DFFFRC",174773,187442,195855
+"23","                Furniture","DFNRRC",100820,109638,114041
+"24","                Clocks, lamps, lighting fixtures, and other household decorative items","DCLFRC",37254,39012,40805
+"25","                Carpets and other floor coverings","DFLRRC",22139,23393,24671
+"26","                Window coverings","DWCTRC",14560,15399,16339
+"27","            Household appliances (part of 33)","DAPPRC",46939,47984,48868
+"28","                Major household appliances","DMHARC",40768,41591,42117
+"29","                Small electric household appliances","DSEARC",6171,6393,6751
+"30","            Glassware, tableware, and household utensils (34)","DUTERC",51336,54022,57283
+"31","                Dishes and flatware","DCHNRC",23888,25109,26672
+"32","                Nonelectric cookware and tableware","DNECRC",27448,28914,30610
+"33","            Tools and equipment for house and garden (35)","DTOORC",21223,22068,23149
+"34","                Tools, hardware, and supplies","DHDWRC",17278,17974,18871
+"35","                Outdoor equipment and supplies","DLWNRC",3946,4094,4278
+"36","        Recreational goods and vehicles","DREQRC",357404,372392,385474
+"37","            Video, audio, photographic, and information processing equipment and media (75, 76, and part of 93)","DVAPRC",213108,218403,224289
+"38","                Video and audio equipment","DVAARC",102795,103034,103306
+"39","                    Televisions","DTVSRC",37444,38275,39253
+"40","                    Other video equipment","DOVARC",20014,20743,21624
+"41","                    Audio equipment","DAUDRC",18389,18637,19577
+"42","                    Recording media","DRECRC",26949,25378,22853
+"43","                        Prerecorded and blank audio discs / tapes / digital files / downloads","DRTDRC",14606,12932,10489
+"44","                        Video cassettes and discs, blank and prerecorded","DOVERC",12343,12446,12364
+"45","                Photographic equipment","DCAMRC",4548,4603,4696
+"46","                Information processing equipment","DIPERC",105765,110766,116287
+"47","                    Personal computers and peripheral equipment","DCPPRC",54494,57500,60475
+"48","                    Computer software and accessories","DCPSRC",49816,51617,53378
+"49","                    Calculators, typewriters, and other information processing equipment","DOIPRC",1455,1649,2434
+"50","            Sporting equipment, supplies, guns, and ammunition (part of 80)","DSPGRC",64042,69019,71781
+"51","            Sports and recreational vehicles (79)","DWHLRC",47277,51055,52774
+"52","                Motorcycles","DMCYRC",11304,11486,11138
+"53","                Bicycles and accessories","DBCYRC",5004,5154,5192
+"54","                Pleasure boats, aircraft, and other recreational vehicles","DBARRC",30969,34415,36444
+"55","                    Pleasure boats","DBOARC",14224,16104,17294
+"56","                    Pleasure aircraft","DAIRRC",1560,1782,2105
+"57","                    Other recreational vehicles","DREVRC",15185,16529,17046
+"58","            Recreational books (part of 90)","DRBKRC",27732,28326,30404
+"59","            Musical instruments (part of 80)","DMSCRC",5245,5589,6226
+"60","        Other durable goods","DODGRC",202835,211060,219586
+"61","            Jewelry and watches (part of 119)","DJRYRC",78080,80597,85373
+"62","                Jewelry","DJLYRC",68849,71074,75213
+"63","                Watches","DWTCRC",9231,9523,10161
+"64","            Therapeutic appliances and equipment (42)","DTAERC",65020,67660,70974
+"65","                Therapeutic medical equipment","DTMERC",31066,32876,35694
+"66","                Corrective eyeglasses and contact lenses","DEYERC",33954,34784,35280
+"67","            Educational books (96)","DEBKRC",9628,9832,10551
+"68","            Luggage and similar personal items (part of 119)","DLUGRC",32847,33926,34594
+"69","            Telephone and facsimile equipment (67)","DTCERC",17261,19045,18093
+"70","    Nondurable goods","DNDGRC",2674070,2666021,2710412
+"71","        Food and beverages purchased for off-premises consumption","DFXARC",884403,898957,915074
+"72","            Food and nonalcoholic beverages purchased for off-premises consumption (4)","DTFDRC",755772,764747,775758
+"73","                Food purchased for off-premises consumption","DFOFRC",670690,677677,686993
+"74","                    Cereals and bakery products","DCBPRC",133628,136018,137502
+"75","                        Cereals","DGRARC",43961,44569,45133
+"76","                        Bakery products","DBAKRC",89667,91449,92369
+"77","                    Meats and poultry","DMAPRC",145499,141318,141707
+"78","                        Beef and veal","DBEERC",38126,37030,37132
+"79","                        Pork","DPORRC",28784,27957,28034
+"80","                        Other meats","DMEARC",30321,29449,29530
+"81","                        Poultry","DPOURC",48269,46882,47010
+"82","                    Fish and seafood","DFISRC",12371,12015,12048
+"83","                    Milk, dairy products, and eggs","DMDERC",80595,81892,81380
+"84","                        Fresh milk","DMILRC",25455,25774,25542
+"85","                        Processed dairy products","DDAIRC",43764,44599,44423
+"86","                        Eggs","DGGSRC",11376,11518,11415
+"87","                    Fats and oils","DFATRC",17074,17310,17529
+"88","                    Fresh fruits and vegetables","DFAVRC",81258,83665,84943
+"89","                        Fruit (fresh)","DFRURC",34671,35698,36243
+"90","                        Vegetables (fresh)","DVEGRC",46587,47967,48699
+"91","                    Processed fruits and vegetables","DPFVRC",27671,28182,28561
+"92","                    Sugar and sweets","DSWERC",42303,44091,46614
+"93","                    Food products, not elsewhere classified","DOFDRC",130292,133187,136708
+"94","                Nonalcoholic beverages purchased for off-premises consumption","DNBVRC",85082,87070,88765
+"95","                    Coffee, tea, and other beverage materials","DCTMRC",10738,10886,11024
+"96","                    Mineral waters, soft drinks, and vegetable juices","DJNBRC",74344,76184,77741
+"97","            Alcoholic beverages purchased for off-premises consumption (5)","DAOPRC",128041,133586,138673
+"98","                Spirits","DLIQRC",29307,30608,31744
+"99","                Wine","DWINRC",37325,39080,40749
+"100","                Beer","DMLTRC",61410,63899,66181
+"101","            Food produced and consumed on farms (6)","DFFDRC",589,623,643
+"102","        Clothing and footwear","DCLORC",375954,385461,393654
+"103","            Garments","DGARRC",297548,304588,309432
+"104","                Women's and girls' clothing (10)","DWGCRC",178621,183012,185421
+"105","                Men's and boys' clothing (11)","DMBCRC",99579,101975,103409
+"106","                Children's and infants' clothing (12)","DCICRC",19349,19602,20602
+"107","            Other clothing materials and footwear (13 and 17)","DOCCRC",78405,80873,84222
+"108","                Clothing materials","DCSMRC",4190,4208,4354
+"109","                Standard clothing issued to military personnel","DMICRC",334,408,408
+"110","                Shoes and other footwear","DSHURC",73881,76257,79460
+"111","        Gasoline and other energy goods","DGOERC",397788,305138,273722
+"112","            Motor vehicle fuels, lubricants, and fluids (59)","DMFLRC",369816,283939,255211
+"113","                Gasoline and other motor fuel","DGASRC",359092,274741,245891
+"114","                Lubricants and fluids","DLUBRC",10724,9198,9320
+"115","            Fuel oil and other fuels (29)","DFULRC",27973,21199,18510
+"116","                Fuel oil","DOILRC",25698,19278,16599
+"117","                Other fuels","DLPFRC",2275,1921,1911
+"118","        Other nondurable goods","DONGRC",1015925,1076465,1127963
+"119","            Pharmaceutical and other medical products (40 and 41)","DPHMRC",428492,466624,490351
+"120","                Pharmaceutical products","DPNPRC",423661,461507,484774
+"121","                    Prescription drugs","DRXDRC",374723,410070,430403
+"122","                    Nonprescription drugs","DNRDRC",48938,51436,54370
+"123","                Other medical products","DOMPRC",4830,5117,5577
+"124","            Recreational items (parts of 80, 92, and 93)","DREIRC",150987,157672,166105
+"125","                Games, toys, and hobbies","DDOLRC",62916,66002,69360
+"126","                Pets and related products","DPRPRC",57588,60339,64200
+"127","                Flowers, seeds, and potted plants","DFLORC",28763,29591,30769
+"128","                Film and photographic supplies","DFLMRC",1719,1740,1776
+"129","            Household supplies (parts of 32 and 36)","DHOURC",122293,125802,130675
+"130","                Household cleaning products","DCLERC",37179,37352,38334
+"131","                Household paper products","DPAPRC",36567,37482,38039
+"132","                Household linens","DLINRC",35686,37203,38921
+"133","                Sewing items","DSEWRC",1484,1505,1563
+"134","                Miscellaneous household products","DMHPRC",11377,12261,13817
+"135","            Personal care products (part of 118)","DOPCRC",123389,129336,136043
+"136","                Hair, dental, shaving, and miscellaneous personal care products except electrical products","DOPHRC",67181,70060,73660
+"137","                Cosmetic / perfumes / bath / nail preparations and implements","DCOSRC",50064,52911,55662
+"138","                Electric appliances for personal care","DEAPRC",6144,6365,6722
+"139","            Tobacco (127)","DTOBRC",104267,107727,107083
+"140","            Magazines, newspapers, and stationery (part of 90)","DNEWRC",81056,84873,93398
+"141","                Newspapers and periodicals","DMAGRC",52115,54874,61628
+"142","                Stationery and miscellaneous printed materials","DSTYRC",28941,29999,31770
+"143","            Net expenditures abroad by U.S. residents (131)","DNFRRC",5441,4430,4308
+"144","                Expenditures abroad by U.S. residents","DABDRC",8467,7555,7223
+"145","                    Government employees' expenditures abroad","DARTRC",7781,6830,6463
+"146","                    Private employees' expenditures abroad","DARSRC",686,725,760
+"147","                Less: Personal remittances in kind to nonresidents","DREMRC",3027,3125,2915
+"148","Services","DSERRC",7893216,8299098,8699275
+"149","    Household consumption expenditures (for services)","DHCERC",7579622,7969654,8340423
+"150","        Housing and utilities","DHUTRC",2143466,2235414,2331526
+"151","            Housing","DHSGRC",1823685,1921000,2019587
+"152","                Rental of tenant-occupied nonfarm housing (20)","DTENRC",451562,490116,519244
+"153","                    Tenant-occupied mobile homes","DTMHRC",9728,10779,11533
+"154","                    Tenant-occupied stationary homes","DTSPRC",434408,471932,500295
+"155","                    Tenant landlord durables","DTLDRC",7426,7404,7416
+"156","                Imputed rental of owner-occupied nonfarm housing (21)","DOWNRC",1352008,1410035,1478439
+"157","                    Owner-occupied mobile homes","DOMHRC",25264,25580,27288
+"158","                    Owner-occupied stationary homes","DOSTRC",1326744,1384456,1451151
+"159","                Rental value of farm dwellings (22)","DFARRC",18215,19051,20076
+"160","                Group housing (23)","DGRHRC",1900,1798,1828
+"161","            Household utilities","DUTLRC",319781,314414,311940
+"162","                Water supply and sanitation (25)","DWRSRC",87690,88852,91095
+"163","                    Water supply and sewage maintenance","DWSMRC",69734,71502,73543
+"164","                    Garbage and trash collection","DREFRC",17956,17350,17553
+"165","                Electricity and gas","DELGRC",232091,225562,220844
+"166","                    Electricity (27)","DELCRC",176178,177624,176585
+"167","                    Natural gas (28)","DGHERC",55913,47938,44259
+"168","        Health care","DHLCRC",1949934,2061247,2163745
+"169","            Outpatient services","DOUTRC",871097,919788,966432
+"170","                Physician services (44)","DPHYRC",453408,479733,503275
+"171","                Dental services (45)","DDENRC",113029,118030,124775
+"172","                Paramedical services (46)","DPMSRC",304660,322026,338382
+"173","                    Home health care","DHHCRC",91146,95575,99337
+"174","                    Medical laboratories","DMLBRC",33766,34628,35541
+"175","                    Other professional medical services","DOMDRC",179748,191822,203504
+"176","                        Specialty outpatient care facilities and health and allied services","DOMSRC",123280,131327,140839
+"177","                        All other professional medical services","DOMORC",56468,60495,62664
+"178","            Hospital and nursing home services","DHPNRC",1078837,1141459,1197313
+"179","                Hospitals (51)","DHSPRC",911011,968793,1016845
+"180","                    Nonprofit hospitals' services to households","DNPHRC",608882,645984,677784
+"181","                    Proprietary hospitals","DFPHRC",122412,133330,140659
+"182","                    Government hospitals","DGVHRC",179717,189479,198402
+"183","                Nursing homes (52)","DNRSRC",167826,172666,180468
+"184","                    Nonprofit nursing homes' services to households","DNPNRC",54393,54438,55891
+"185","                    Proprietary and government nursing homes","DFPNRC",113433,118229,124577
+"186","        Transportation services","DTRSRC",357455,374249,392459
+"187","            Motor vehicle services","DMVSRC",255400,267654,285067
+"188","                Motor vehicle maintenance and repair (60)","DVMRRC",177577,182375,193235
+"189","                Other motor vehicle services (61)","DOVSRC",77823,85279,91832
+"190","                    Motor vehicle leasing","DMVLRC",40887,46104,51163
+"191","                        Auto leasing","DALERC",27990,30358,31995
+"192","                        Truck leasing","DTLERC",12898,15746,19168
+"193","                    Motor vehicle rental","DMVRRC",15302,15881,16901
+"194","                    Parking fees and tolls","DPFTRC",21634,23294,23768
+"195","            Public transportation","DPUBRC",102054,106595,107392
+"196","                Ground transportation (63)","DGRDRC",45152,46244,45515
+"197","                    Railway transportation","DIRRRC",1345,1321,1337
+"198","                    Road transportation","DROTRC",43807,44923,44178
+"199","                        Intercity buses","DIBURC",1186,1147,1136
+"200","                        Taxicabs","DTAXRC",6480,6624,6156
+"201","                        Intracity mass transit","DIMTRC",21004,21411,21164
+"202","                        Other road transportation service","DORTRC",15136,15741,15721
+"203","                Air transportation (64)","DAITRC",53464,56721,58197
+"204","                Water transportation (65)","DWATRC",3438,3630,3681
+"205","        Recreation services","DRCARC",452503,470992,492637
+"206","            Membership clubs, sports centers, parks, theaters, and museums (82)","DRLSRC",168911,180172,192232
+"207","                Membership clubs and participant sports centers","DMDFRC",45722,47936,50535
+"208","                Amusement parks, campgrounds, and related recreational services","DORSRC",50149,54677,59344
+"209","                Admissions to specified spectator amusements","DADMRC",65794,70296,75026
+"210","                    Motion picture theaters","DMOVRC",12999,13666,14442
+"211","                    Live entertainment, excluding sports","DLIGRC",29975,32414,34628
+"212","                    Spectator sports","DSPERC",22819,24216,25956
+"213","                Museums and libraries","DMUSRC",7246,7263,7327
+"214","            Audio-video, photographic, and information processing equipment services (parts of 77 and 93)","DAVPRC",111018,111533,111982
+"215","                Cable and satellite television and radio services","DCTVRC",86963,86259,85781
+"216","                Photo processing","DFDVRC",3672,3757,3837
+"217","                Photo studios","DPICRC",7702,8053,7848
+"218","                Repair of audio-visual, photographic, and information processing equipment","DAPIRC",7796,8192,8284
+"219","                Video media rental","DVIDRC",4885,5272,6232
+"220","            Gambling (91)","DGAMRC",121054,124410,128633
+"221","                Casino gambling","DCASRC",91124,93719,96913
+"222","                Lotteries","DLOTRC",25330,25955,26991
+"223","                Pari-mutuel net receipts","DPARRC",4599,4736,4729
+"224","            Other recreational services (81, 94, and part of 92)","DOTRRC",51521,54877,59790
+"225","                Veterinary and other services for pets","DVETRC",35828,38513,42466
+"226","                Package tours","DHOLRC",10603,11115,11624
+"227","                Maintenance and repair of recreational vehicles and sports equipment","DRRERC",5090,5249,5700
+"228","        Food services and accommodations","DFSARC",754096,808152,849211
+"229","            Food services","DFSERC",642953,690027,727008
+"230","                Purchased meals and beverages (102)","DPMBRC",625043,671084,706769
+"231","                    Meals and nonalcoholic beverages","DMABRC",544729,584506,615224
+"232","                        Meals at schools","DMSLRC",21274,21219,21053
+"233","                            Elementary and secondary school lunches","DESLRC",5849,5641,5470
+"234","                            Higher education school lunches","DHSLRC",15426,15578,15583
+"235","                        Other purchased meals","DOPMRC",523455,563286,594171
+"236","                            Meals at limited service eating places","DMLSRC",270221,294105,311892
+"237","                            Meals at other eating places","DMOERC",249971,265761,278664
+"238","                            Meals at drinking places","DMDPRC",3262,3421,3615
+"239","                    Alcohol in purchased meals","DAPMRC",80314,86578,91545
+"240","                Food furnished to employees (including military) (103)","DFOORC",17910,18944,20239
+"241","                    Food supplied to civilians","DCFDRC",16194,17028,18420
+"242","                    Food supplied to military","DMFDRC",1716,1916,1819
+"243","            Accommodations (104)","DACCRC",111143,118125,122203
+"244","                Hotels and motels","DHOTRC",89484,95802,99287
+"245","                Housing at schools","DSCHRC",21659,22323,22916
+"246","        Financial services and insurance","DIFSRC",888435,947202,984748
+"247","            Financial services","DFNLRC",556188,598277,626117
+"248","                Financial services furnished without payment (107)","DIMPRC",299465,336202,360913
+"249","                    Commercial banks","DIMCRC",89456,103966,121873
+"250","                    Other depository institutions and regulated investment companies","DIMNRC",162900,182951,187806
+"251","                    Pension funds","DPENRC",47109,49285,51233
+"252","                Financial service charges, fees, and commissions (108)","DOFIRC",256723,262075,265204
+"253","                    Financial service charges and fees","DFEERC",98445,102466,107023
+"254","                    Securities commissions","DEQTRC",30670,28578,27419
+"255","                        Direct commissions","DDCTRC",11585,9739,8425
+"256","                            Exchange-listed equities","DDCERC",1461,1402,1214
+"257","                            Other direct commissions","DDCORC",10124,8337,7211
+"258","                        Indirect commissions","DICTRC",8978,9044,9922
+"259","                            Over-the-counter equity securities","DICVRC",695,726,708
+"260","                            Other imputed commissions","DICORC",8283,8318,9214
+"261","                        Mutual fund sales charges","DMUTRC",10107,9794,9072
+"262","                    Portfolio management and investment advice services","DPMIRC",117248,120568,120210
+"263","                    Trust, fiduciary, and custody activities","DTRURC",10360,10463,10552
+"264","            Insurance","DINSRC",332247,348925,358631
+"265","                Life insurance (110)","DLIFRC",88727,93260,92425
+"266","                Net household insurance (111)","DFINRC",11034,12056,12944
+"267","                    Household insurance premiums and premium supplements","DFIPRC",24668,25729,26706
+"268","                    Less: Household insurance normal losses","DFIBRC",13634,13672,13762
+"269","                Net health insurance (112)","DHINRC",168481,177453,185402
+"270","                    Medical care and hospitalization","DMINRC",144453,150625,156915
+"271","                    Income loss","DIINRC",2933,3091,3206
+"272","                    Workers' compensation","DPWCRC",21095,23737,25282
+"273","                Net motor vehicle and other transportation insurance (116)","DTINRC",64005,66156,67860
+"274","        Other services","DOTSRC",1033734,1072398,1126095
+"275","            Communication","DCOMRC",271537,280597,291037
+"276","                Telecommunication services (71)","DTCSRC",163291,166208,165485
+"277","                    Land-line telephone services, local charges","DLOCRC",31461,32726,31401
+"278","                    Land-line telephone services, long-distance charges","DLDTRC",11262,11660,11278
+"279","                    Cellular telephone services","DCELRC",120567,121821,122806
+"280","                Postal and delivery services (68)","DPSSRC",10610,10558,10432
+"281","                    First-class postal service (by U.S. Postal Service)","DPSTRC",8204,8070,7837
+"282","                    Other delivery services (by non-U.S. postal facilities)","DODSRC",2405,2488,2595
+"283","                Internet access (72)","DINTRC",97637,103831,115120
+"284","            Education services","DTEDRC",268248,276360,284082
+"285","                Higher education (97)","DHEDRC",179041,183227,187489
+"286","                    Proprietary and public higher education","DGEDRC",108883,110462,112764
+"287","                    Nonprofit private higher education services to households","DPEDRC",70157,72765,74725
+"288","                Nursery, elementary, and secondary schools (98)","DNEHRC",40710,42120,43927
+"289","                    Elementary and secondary schools","DESCRC",28598,29328,30139
+"290","                    Day care and nursery schools","DNSCRC",12112,12792,13787
+"291","                Commercial and vocational schools (99)","DVEDRC",48497,51013,52667
+"292","            Professional and other services (121)","DPRSRC",178977,185836,191161
+"293","                Legal services","DGALRC",98382,102169,104450
+"294","                Accounting and other business services","DPRORC",31528,32941,34606
+"295","                    Tax preparation and other related services","DTAPRC",23722,24562,25451
+"296","                    Employment agency services","DGENRC",1027,1142,1201
+"297","                    Other personal business services","DTHERC",6780,7237,7954
+"298","                Labor organization dues","DUNSRC",12755,13039,13326
+"299","                Professional association dues","DAXSRC",9135,9085,9838
+"300","                Funeral and burial services","DFUNRC",27178,28602,28940
+"301","            Personal care and clothing services (14 and parts of 17 and 118)","DPERRC",139675,146194,155446
+"302","                Personal care services","DPCSRC",122776,129118,138186
+"303","                    Hairdressing salons and personal grooming establishments","DBBBRC",67128,70150,74526
+"304","                    Miscellaneous personal care services","DMPCRC",55648,58968,63661
+"305","                Clothing and footwear services","DCFSRC",16899,17076,17260
+"306","                    Laundry and drycleaning services","DDRYRC",12030,12049,12074
+"307","                    Clothing repair, rental, and alterations","DLGRRC",4341,4469,4631
+"308","                    Repair and hire of footwear","DSCLRC",527,558,555
+"309","            Social services and religious activities (120)","DSOCRC",161232,170662,179298
+"310","                Child care","DCHCRC",33654,35495,38146
+"311","                Social assistance","DSCWRC",103737,110442,115041
+"312","                    Homes for the elderly","DELDRC",21902,23367,24598
+"313","                    Residential mental health and substance abuse","DMENRC",8668,9705,10121
+"314","                    Individual and family services","DFAMRC",48642,51743,54174
+"315","                    Vocational rehabilitation services","DVOCRC",9287,9666,9898
+"316","                    Community food and housing / emergency / other relief services","DCFORC",9350,9811,9886
+"317","                    Other social assistance, not elsewere classified","DSIARC",5888,6150,6366
+"318","                Social advocacy and civic and social organizations","DSADRC",15872,16504,17716
+"319","                Religious organizations' services to households","DRELRC",6491,6679,6879
+"320","                Foundations and grantmaking and giving services to households","DGIVRC",1479,1543,1515
+"321","            Household maintenance (parts of 31, 33, and 36)","DHHMRC",73599,75976,77965
+"322","                Domestic services","DDMSRC",28853,29618,29362
+"323","                Moving, storage, and freight services","DMSERC",15748,15941,16451
+"324","                Repair of furniture, furnishings, and floor coverings","DFRERC",1240,1332,1344
+"325","                Repair of household appliances","DERERC",5429,5704,5881
+"326","                Other household services","DMHSRC",22330,23381,24926
+"327","            Net foreign travel","DFORRC",-59535,-63228,-52893
+"328","                Foreign travel by U.S. residents (129)","DFTRRC",135056,144963,155850
+"329","                    Passenger fares for foreign travel","DAFTRC",44096,43493,45062
+"330","                    U.S. travel outside the United States","DUSTRC",83996,94222,103204
+"331","                    U.S. student expenditures","DUSSRC",6964,7248,7584
+"332","                Less: Expenditures in the United States by nonresidents (130)","DEXFRC",194591,208190,208743
+"333","                    Foreign travel in the United States","DFTURC",160165,169205,165567
+"334","                    Medical expenditures of foreigners","DMEFRC",3468,3597,3751
+"335","                    Expenditures of foreign students in the United States","DEFSRC",30958,35388,39425
+"336","    Final consumption expenditures of nonprofit institutions serving households (NPISHs) (132)","DNPIRC",313593,329445,358852
+"337","        Gross output of nonprofit institutions (133)","DNPERC",1274635,1339190,1411338
+"338","            Health, gross output","DHLGRC",745896,795864,838585
+"339","                Outpatient services, gross output","DOUGRC",79277,83236,86063
+"340","                Nonprofit hospitals, gross output","DHSORC",606069,651331,690782
+"341","                Nonprofit nursing homes, gross output","DNXORC",60549,61297,61740
+"342","            Recreation services, gross output","DRCGRC",44189,46139,48942
+"343","            Education services, gross output","DEDGRC",175330,182419,189629
+"344","            Social services, gross output","DSSGRC",118629,122216,125419
+"345","            Religious organizations, gross output","DREORC",83358,85775,88348
+"346","            Foundations and grantmaking and giving establishments, gross output","DFXORC",33884,35444,39746
+"347","            Social advocacy establishments, gross output","DSAORC",21450,21961,21708
+"348","            Civic and social organizations, gross output","DCIORC",10080,10621,11105
+"349","            Professional advocacy, gross output","DSNGRC",41820,38751,47855
+"350","        Less: Receipts from sales of goods and services by nonprofit institutions (134)","DNPSRC",961042,1009745,1052486
+"351","            Health services to households","DHLRRC",728885,769657,805850
+"352","                Outpatient services to households","DOUSRC",65610,69235,72175
+"353","                Nonprofit hospitals services to households","DNPHRC",608882,645984,677784
+"354","                Nonprofit nursing homes services to households","DNPNRC",54393,54438,55891
+"355","            Recreation services to households","DRCRRC",20115,20384,20665
+"356","            Education services to households","DEDRRC",107512,111541,114620
+"357","            Social services to households","DSSRRC",55382,57680,58414
+"358","            Religious organizations' services to households","DRELRC",6491,6679,6879
+"359","            Foundations and grantmaking and giving services to households","DGIVRC",1479,1543,1515
+"360","            Services of social advocacy establishments to households","DSASRC",3617,3663,3833
+"361","            Civic and social organizations' services to households","DCISRC",6658,6938,6963
+"362","            Professional advocacy services to households","DSNRRC",30903,31660,33747
+" ","Additional aggregates:","BLANK","","",""
+"363","    Control group","DCGPRC",3123330,3242612,3354106
+"364","    PCE food and energy","DPFERC",1514282,1429657,1409640
+"365","    PCE energy goods and services 1","DNRGRC",629879,530700,494566
+"366","    PCE excluding food","DPXFRC",10979266,11433300,11905619
+"367","    PCE excluding energy","DPXERC",11233790,11801557,12326128
+"368","    PCE excluding food and energy 2","DPCCRC",10349387,10902600,11411053
+"369","    PCE goods excluding food and energy 2","LA000062",2688262,2829064,2932623
+"370","    PCE services excluding energy","LA000063",7661125,8073536,8478431
+" ","Market-based personal consumption expenditures (PCE):","BLANK","","",""
+"371","        Market-based PCE","DPCMRC",10502385,10886067,11287178
+" ","Durable goods:","BLANK","","",""
+"372","    Market-based PCE motor vehicles and parts","DMOMRC",399401,424715,430858
+"373","    Market-based PCE durable goods other than motor vehicles and parts","DDUMRC",854509,894968,930214
+" ","Nondurable goods:","BLANK","","",""
+"374","    Market-based PCE food and beverages purchased for off-premises consumption","DMFXRC",883814,898334,914431
+"375","    Market-based PCE clothing and footwear","DCLMRC",375620,385053,393246
+"376","    Market-based PCE gasoline and other energy goods","DGOERC",397788,305138,273722
+"377","    Market-based PCE other nondurable goods","DNDXRC",1010484,1072035,1123655
+" ","Services:","BLANK","","",""
+"378","    Market-based PCE services","DSEMRC",6580768,6905824,7221052
+" ","        Of which:","BLANK","","",""
+"379","        Market-based PCE housing services","DHSMRC",1805470,1901949,1999511
+"380","        Market-based PCE household utilities","DUTLRC",319781,314414,311940
+"381","        Market-based PCE health care","DHLCRC",1949934,2061247,2163745
+"382","        Market-based PCE transportation services","DTRSRC",357455,374249,392459
+"383","        Market-based PCE recreation services","DRCMRC",331449,346582,364004
+"384","        Market-based PCE food services and accommodations","DFSMRC",736186,789208,828972
+"385","        Market-based PCE financial services and insurance","DFIMRC",130042,133305,138314
+"386","        Market-based PCE other services","DOTMRC",950451,984870,1022106
+" ","            Of which:","BLANK","","",""
+"387","            Market-based PCE communication services","DCOMRC",271537,280597,291037
+"388","            Market-based PCE education","DTEDRC",268248,276360,284082
+"389","            Market-based PCE professional services","DPRMRC",166223,172797,177834
+"390","            Market-based PCE personal care and clothing services","DPERRC",139675,146194,155446
+"391","            Market-based PCE child care","DCHCRC",33654,35495,38146
+"392","            Market-based PCE household maintenance","DHMMRC",71115,73427,75561
+"393","Market-based PCE food and energy","DPMFRC",1513693,1429034,1408997
+"394","Market-based PCE excluding food","DMXFRC",9618571,9987734,10372746
+"395","Market-based PCE excluding energy","DPMERC",9872505,10355367,10792612
+"396","Market-based PCE excluding food and energy","DPCXRC",8988691,9457034,9878180
+"Legend / Footnotes:"
+"n.e.c. Not elsewhere classified"
+"1. Consists of gasoline and other energy goods and of electricity and gas services."
+"2. Food consists of food and beverages purchased for off-premises consumption; food services, which include purchased meals and beverages, are not classified as food."
+"Note.The figures in parentheses are the line numbers of the corresponding items in table 2.5.5."

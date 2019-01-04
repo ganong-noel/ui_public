@@ -1,0 +1,32 @@
+"","pce_group","pce_category","jpmc_spend_month","pce_spend","ratio_jpmc_pce_month"
+"1","ND","Alcoholic beverages purchased for off-premises consumption",8,89,0.1
+"2","ND","Clothing and footwear",61,268,0.23
+"3","ND","Food and nonalcoholic beverages purchased for off-premises consumption",181,510,0.36
+"4","ND","Food services",139,460,0.3
+"5","ND","Household maintenance",6,51,0.12
+"6","ND","Household utilities",126,224,0.56
+"7","ND","Medical",25,176,0.14
+"8","ND","Motor vehicle fuels, lubricants, and fluids",59,189,0.31
+"9","ND","Personal care products and services",45,172,0.26
+"10","ND","Pharmaceutical products",14,44,0.33
+"11","ND","Postal and delivery services",5,7,0.72
+"12","ND","Professional and other services",17,124,0.14
+"13","ND","Public transportation (air)",15,38,0.4
+"14","ND","Public transportation (other)",9,33,0.27
+"15","ND","Reading",3,75,0.04
+"16","ND","Recreation - Other",46,221,0.21
+"17","ND","Social services and religious activities",19,114,0.17
+"18","ND","Sporting equipment, supplies, guns, and ammunities, and sports and recreational vehicles",9,80,0.11
+"19","ND","Telecom",14,193,0.07
+"20","ND","Tobacco",2,72,0.03
+"21","D","Education",10,206,0.05
+"22","D","Furnishings and durable household equipment",43,208,0.21
+"23","D","Hotels and motels",13,64,0.2
+"24","D","Housing supplies",89,84,1.06
+"25","D","Membership clubs, sports centers, parks, theaters, and museums",21,120,0.18
+"26","D","Motor vehicle parts, accessories, and maintenance and repair",52,168,0.31
+"27","D","Other durable goods",4,76,0.05
+"28","D","Other motor vehicle services",10,57,0.17
+"29","D","Video, audio, photographic, and information processing equipment, media, and services",55,220,0.25
+"30","Others","Not comparable",168,3660,0.05
+"31","Others","Uncategorized consumption",39,0,Inf

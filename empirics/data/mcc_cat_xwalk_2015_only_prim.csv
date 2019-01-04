@@ -1,0 +1,410 @@
+﻿at_mcccode,at_categoryid2,mcc_grp_jpmci,category_description,at_creditdebitindicator,n,dollars
+742,21002,profperslsvcs_main            ,Medical Services,D,4556,-525615.14
+763,20024,profperslsvcs_main            ,Agricultural Cooperative,D,301,-14221.34
+780,21003,profperslsvcs_main            ,Contractors,D,648,-55810.86
+1520,21003,profperslsvcs_home            ,Contractors,D,123,-21592.79
+1711,21003,profperslsvcs_home            ,Contractors,D,280,-52733.62
+1731,21003,profperslsvcs_home            ,Contractors,D,27,-4515.12
+1740,21003,profperslsvcs_home            ,Contractors,D,26,-9200.99
+1761,21003,profperslsvcs_home            ,Contractors,D,24,-28464.39
+1771,21003,profperslsvcs_home            ,Contractors,D,21,-10465.43
+1799,21003,profperslsvcs_home            ,Contractors,D,242,-51236.5
+2741,21011,profperslsvcs_main            ,Professional Services,D,706,-37894.67
+2791,21011,profperslsvcs_main            ,Professional Services,D,13,-822.53
+2842,21003,profperslsvcs_main            ,Contractors,D,78,-10297.49
+3000,20010,travel_air                    ,Aerial Transportation,D,1302,-207868.68
+3001,20010,travel_air                    ,Aerial Transportation,D,1163,-198237.94
+3005,20010,travel_air                    ,Aerial Transportation,D,19,-10706.07
+3007,20010,travel_air                    ,Aerial Transportation,D,18,-16000.5
+3008,20010,travel_air                    ,Aerial Transportation,D,12,-9822.54
+3009,20010,travel_air                    ,Aerial Transportation,D,24,-6585.46
+3022,20010,travel_air                    ,Aerial Transportation,D,17,-18128.34
+3039,20010,travel_air                    ,Aerial Transportation,D,36,-17214.07
+3047,20010,travel_air                    ,Aerial Transportation,D,15,-11514
+3052,20010,travel_air                    ,Aerial Transportation,D,10,-4799.43
+3057,20010,travel_air                    ,Aerial Transportation,D,112,-12895.54
+3058,20010,travel_air                    ,Aerial Transportation,D,1150,-151714.37
+3063,20010,travel_air                    ,Aerial Transportation,D,371,-63609.33
+3066,20010,travel_air                    ,Aerial Transportation,D,927,-180599.69
+3076,20010,travel_air                    ,Aerial Transportation,D,23,-5603.97
+3132,20010,travel_air                    ,Aerial Transportation,D,240,-28079.51
+3174,20010,travel_air                    ,Aerial Transportation,D,620,-129535.81
+3196,20010,travel_air                    ,Aerial Transportation,D,80,-13313.44
+3211,20010,travel_air                    ,Aerial Transportation,D,14,-4569.55
+3234,20010,travel_air                    ,Aerial Transportation,D,15,-7868.08
+3245,20010,travel_air                    ,Aerial Transportation,D,12,-1856.66
+3256,20010,travel_air                    ,Aerial Transportation,D,246,-33382.29
+3260,20010,travel_air                    ,Aerial Transportation,D,427,-66200.34
+3357,20008,travel_auto                   ,Car Dealer / Car Rental,D,194,-39715.96
+3366,20008,travel_auto                   ,Car Dealer / Car Rental,D,76,-18464.8
+3387,20008,travel_auto                   ,Car Dealer / Car Rental,D,31,-6632.85
+3389,20008,travel_auto                   ,Car Dealer / Car Rental,D,87,-16158.43
+3390,20008,travel_auto                   ,Car Dealer / Car Rental,D,41,-9490.82
+3393,20008,travel_auto                   ,Car Dealer / Car Rental,D,30,-5148.62
+3395,20008,travel_auto                   ,Car Dealer / Car Rental,D,26,-4566.83
+3405,20008,travel_auto                   ,Car Dealer / Car Rental,D,669,-108394.77
+3441,20008,travel_auto                   ,Car Dealer / Car Rental,D,15,-4490.75
+3501,20002,travel_lodging                ,Hotel / Motel,D,297,-46311.42
+3502,20002,travel_lodging                ,Hotel / Motel,D,234,-34770.99
+3503,20002,travel_lodging                ,Hotel / Motel,D,114,-15568.6
+3504,20002,travel_lodging                ,Hotel / Motel,D,200,-41223.29
+3508,20002,travel_lodging                ,Hotel / Motel,D,146,-17570.07
+3509,20002,travel_lodging                ,Hotel / Motel,D,572,-57079.34
+3510,20002,travel_lodging                ,Hotel / Motel,D,138,-16892.93
+3512,20002,travel_lodging                ,Hotel / Motel,D,13,-2561.82
+3513,20002,travel_lodging                ,Hotel / Motel,D,61,-10251.99
+3515,20002,travel_lodging                ,Hotel / Motel,D,25,-2290.62
+3516,20002,travel_lodging                ,Hotel / Motel,D,162,-24397.97
+3528,20002,travel_lodging                ,Hotel / Motel,D,11,-1743.23
+3530,20002,travel_lodging                ,Hotel / Motel,D,81,-6795.42
+3543,20002,travel_lodging                ,Hotel / Motel,D,17,-4439.15
+3551,20002,travel_lodging                ,Hotel / Motel,D,14,-2193.47
+3555,20002,travel_lodging                ,Hotel / Motel,D,41,-1462.62
+3559,20002,travel_lodging                ,Hotel / Motel,D,11,-1858.45
+3562,20002,travel_lodging                ,Hotel / Motel,D,185,-26456.87
+3590,20002,travel_lodging                ,Hotel / Motel,D,30,-4856.23
+3592,20002,travel_lodging                ,Hotel / Motel,D,26,-4678.07
+3604,20002,travel_lodging                ,Hotel / Motel,D,64,-10077.74
+3608,20002,travel_lodging                ,Hotel / Motel,D,19,-510.11
+3613,20002,travel_lodging                ,Hotel / Motel,D,29,-2855.71
+3615,20002,travel_lodging                ,Hotel / Motel,D,30,-3391.74
+3617,20002,travel_lodging                ,Hotel / Motel,D,41,-3410.66
+3618,20002,travel_lodging                ,Hotel / Motel,D,24,-6899.09
+3619,20002,travel_lodging                ,Hotel / Motel,D,24,-2572.08
+3621,20002,travel_lodging                ,Hotel / Motel,D,108,-36312.97
+3628,20002,travel_lodging                ,Hotel / Motel,D,26,-2276.92
+3631,20002,travel_lodging                ,Hotel / Motel,D,17,-2001.16
+3637,20002,travel_lodging                ,Hotel / Motel,D,96,-11333.7
+3638,20002,travel_lodging                ,Hotel / Motel,D,20,-2223.48
+3640,20002,travel_lodging                ,Hotel / Motel,D,126,-20266.21
+3644,20002,travel_lodging                ,Hotel / Motel,D,42,-3890.69
+3649,20002,travel_lodging                ,Hotel / Motel,D,32,-6560.07
+3650,20002,travel_lodging                ,Hotel / Motel,D,108,-10632.28
+3654,20002,travel_lodging                ,Hotel / Motel,D,19,-1755.39
+3660,20002,travel_lodging                ,Hotel / Motel,D,18,-1552.09
+3662,20002,travel_lodging                ,Hotel / Motel,D,37,-2201.8
+3665,20002,travel_lodging                ,Hotel / Motel,D,195,-35935.09
+3667,20002,travel_lodging                ,Hotel / Motel,D,20,-5146.3
+3679,20002,travel_lodging                ,Hotel / Motel,D,10,-965.06
+3687,20002,travel_lodging                ,Hotel / Motel,D,31,-4823.6
+3690,20002,travel_lodging                ,Hotel / Motel,D,303,-21751.33
+3692,20002,travel_lodging                ,Hotel / Motel,D,82,-17151.58
+3693,20002,travel_lodging                ,Hotel / Motel,D,23,-3145.13
+3695,20002,travel_lodging                ,Hotel / Motel,D,56,-11472.83
+3700,20002,travel_lodging                ,Hotel / Motel,D,256,-20622.91
+3703,20002,travel_lodging                ,Hotel / Motel,D,59,-13789.73
+3709,20002,travel_lodging                ,Hotel / Motel,D,124,-12794.34
+3710,20002,travel_lodging                ,Hotel / Motel,D,16,-1117.77
+3715,20002,travel_lodging                ,Hotel / Motel,D,85,-11285.41
+3722,20002,travel_lodging                ,Hotel / Motel,D,39,-5665.19
+3726,20002,travel_lodging                ,Hotel / Motel,D,14,-2353.2
+3728,20002,travel_lodging                ,Hotel / Motel,D,11,-1055.81
+3730,20002,travel_lodging                ,Hotel / Motel,D,35,-5279.68
+3731,20002,travel_lodging                ,Hotel / Motel,D,37,-4243.93
+3736,20002,travel_lodging                ,Hotel / Motel,D,11,-1990.76
+3740,20002,travel_lodging                ,Hotel / Motel,D,21,-3100.34
+3750,20002,travel_lodging                ,Hotel / Motel,D,46,-6582.4
+3751,20002,travel_lodging                ,Hotel / Motel,D,23,-5340.51
+3770,20002,travel_lodging                ,Hotel / Motel,D,54,-9778.85
+3779,20002,travel_lodging                ,Hotel / Motel,D,13,-2171.11
+3780,20002,travel_lodging                ,Hotel / Motel,D,65,-23066.34
+3791,20002,travel_lodging                ,Hotel / Motel,D,11,-3139.35
+3812,20002,travel_lodging                ,Hotel / Motel,D,16,-2826.32
+3829,,travel_lodging                ,,D,38,-4740.43
+4111,20012,transitcommute                ,Ground Transportation,D,20977,-486789.8
+4112,20012,transitcommute                ,Ground Transportation,D,448,-42201.67
+4119,21002,healthcare_ambl               ,Medical Services,D,38,-5011
+4121,20012,transitcommute                ,Ground Transportation,D,25089,-391905.82
+4131,20012,transitcommute                ,Ground Transportation,D,1344,-61948.02
+4214,21004,profperslsvcs_main            ,Courier Services / Shipping Services,D,459,-59677.67
+4215,21004,profperslsvcs_main            ,Courier Services / Shipping Services,D,738,-22596.87
+4225,21005,profperslsvcs_main            ,Storage,D,2695,-326290.53
+4411,20011,travel_lodging                ,Marine Transportation,D,318,-144983.69
+4457,20011,entertainment                 ,Marine Transportation,D,89,-6002.48
+4468,20011,entertainment                 ,Marine Transportation,D,309,-28632.79
+4511,20010,travel_air                    ,Aerial Transportation,D,279,-74272.33
+4582,20010,travel_air                    ,Aerial Transportation,D,206,-2391.34
+4722,20013,travel_svcs                   ,Travel / Tourism (Not including transportation),D,2314,-517374.38
+4784,20012,transitcommute                ,Ground Transportation,D,12080,-411036.34
+4789,20012,transitcommute                ,Ground Transportation,D,2238,-57660.18
+4812,16001,utilities_telecomm            ,Utility - Telecommunications,D,7598,-673721.44
+4814,16001,utilities_telecomm            ,Utility - Telecommunications,D,43508,-4573448.41
+4816,20022,onlinemarket                  ,Misc. Business ,D,9667,-196279.74
+4829,21006,others_main                   ,Financial Services,D,4916,-1113839.21
+4899,16001,utilities_telecomm            ,Utility - Telecommunications,D,33916,-3271289.29
+4900,16002,utilities_main                ,"Utility - Gas, Electric, Water, And Sewage",D,16052,-1916545.32
+5013,20021,autopartsmfr                  ,Repairs,D,145,-18305.71
+5021,20005,homeimprovement_dur           ,Furnishings,D,24,-9710.11
+5039,20017,homeimprovement_dur           ,Supplies,D,305,-46725.53
+5044,21012,profperslsvcs_main            ,Equipment (Non-Medical),D,77,-4415.75
+5045,21012,electronicsappls_dur          ,Equipment (Non-Medical),D,1344,-63633.68
+5046,21012,homeimprovement_dur           ,Equipment (Non-Medical),D,234,-26243.99
+5047,20007,healthcare_equp_gen           ,Medical Equipment / Supplies,D,576,-57602.8
+5051,21002,homeimprovement_dur           ,Medical Services,D,32,-3817.13
+5065,21012,homeimprovement_dur           ,Equipment (Non-Medical),D,282,-31448.36
+5072,21012,homeimprovement_dur           ,Equipment (Non-Medical),D,1012,-84427.6
+5074,21012,homeimprovement_dur           ,Equipment (Non-Medical),D,260,-37155.3
+5085,21012,homeimprovement_dur           ,Equipment (Non-Medical),D,371,-32545.46
+5094,20014,otherretail_dur               ,Luxury Items,D,242,-21310.12
+5099,21012,otherretail_dur               ,Equipment (Non-Medical),D,735,-62964.29
+5111,20017,otherretail_nondur            ,Supplies,D,529,-27200.5
+5122,21002,drugstore                     ,Medical Services,D,160,-13231.4
+5131,20017,otherretail_nondur            ,Supplies,D,156,-11446
+5137,20003,otherretail_nondur            ,Department Stores,D,468,-39538.93
+5139,20003,otherretail_nondur            ,Department Stores,D,63,-5771.27
+5169,20017,homeimprovement_dur           ,Supplies,D,264,-13712.36
+5172,20006,otherretail_nondur            ,Fuel,D,36,-3538.23
+5192,20018,otherretail_nondur            ,"Books, Periodicals, And Newspapers",D,3017,-52617.24
+5193,20017,homeimprovement_flowr         ,Supplies,D,320,-18692.95
+5198,20017,homeimprovement_dur           ,Supplies,D,75,-7058.3
+5199,20022,otherretail_nondur            ,Misc. Business ,D,749,-45996.6
+5200,20004,homeimprovement_dur           ,Home Improvements,D,39547,-2352389.34
+5211,20017,homeimprovement_dur           ,Supplies,D,1012,-110764.16
+5231,20017,homeimprovement_dur           ,Supplies,D,744,-67973.9
+5251,20017,homeimprovement_dur           ,Supplies,D,9615,-346282.64
+5261,20017,homeimprovement_dur           ,Supplies,D,2007,-131377.26
+5271,20022,autodealer_mobile             ,Misc. Business ,D,11,-2009.23
+5300,20001,discountstore                 ,Groceries,D,38234,-3459106.58
+5309,20015,otherretail_nondur            ,Convenience and Discount Stores,D,308,-19778.81
+5310,20015,discountstore                 ,Convenience and Discount Stores,D,55247,-2268709.3
+5311,20003,departmentstore               ,Department Stores,D,26428,-1799523.48
+5331,20015,discountstore                 ,Convenience and Discount Stores,D,35331,-611664.57
+5399,20003,otherretail_nondur            ,Department Stores,D,15207,-612607.07
+5411,20001,grocery_main                  ,Groceries,D,611191,-25638484.59
+5422,20001,grocery_main                  ,Groceries,D,3004,-96524.66
+5441,20001,grocery_main                  ,Groceries,D,2465,-45017.25
+5451,20001,otherretail_nondur            ,Groceries,D,570,-8518.69
+5462,20001,restaurant_main               ,Groceries,D,10617,-149701.86
+5499,20015,grocery_main                  ,Convenience and Discount Stores,D,64023,-1284333.26
+5511,20008,autodealer_dur                ,Car Dealer / Car Rental,D,3870,-1067394.36
+5521,20008,autodealer_dur                ,Car Dealer / Car Rental,D,731,-236149.79
+5532,20021,autopartsmfr                  ,Repairs,D,2428,-427928.55
+5533,20021,autopartsmfr                  ,Repairs,D,16760,-870226
+5541,20006,fuel                          ,Fuel,D,12,-451.04
+5541,20009,fuel                          ,Restaurant / Bars,D,11,-199.59
+5541,20021,fuel                          ,Repairs,D,288348,-3641226.73
+5542,20006,fuel                          ,Fuel,D,246291,-6900827.09
+5542,20009,fuel                          ,Restaurant / Bars,D,29,-710.76
+5542,20021,fuel                          ,Repairs,D,25,-309.85
+5551,20022,otherretail_dur               ,Misc. Business ,D,115,-18229.98
+5561,20008,autodealer_dur                ,Car Dealer / Car Rental,D,175,-11598.48
+5571,20008,autodealer_dur                ,Car Dealer / Car Rental,D,808,-105553.64
+5599,20008,autodealer_dur                ,Car Dealer / Car Rental,D,1495,-100086.64
+5611,20003,otherretail_nondur            ,Department Stores,D,2169,-180084.82
+5621,20003,otherretail_nondur            ,Department Stores,D,12196,-713475.91
+5631,20003,otherretail_nondur            ,Department Stores,D,5208,-311221.5
+5641,20003,otherretail_nondur            ,Department Stores,D,3895,-185451.8
+5651,20003,otherretail_nondur            ,Department Stores,D,28544,-1464426.17
+5655,20019,otherretail_nondur            ,Sporting,D,5058,-360843.97
+5661,20003,otherretail_nondur            ,Department Stores,D,12104,-846377.08
+5691,20003,otherretail_nondur            ,Department Stores,D,10029,-610130.24
+5697,21011,otherretail_nondur            ,Professional Services,D,251,-11651.06
+5698,20022,otherretail_nondur            ,Misc. Business ,D,204,-12661.16
+5699,20003,otherretail_nondur            ,Department Stores,D,9738,-508226.07
+5712,20005,homeimprovement_dur           ,Furnishings,D,3194,-807849.51
+5713,20004,homeimprovement_dur           ,Home Improvements,D,262,-91704.86
+5714,20004,homeimprovement_dur           ,Home Improvements,D,58,-9293.39
+5718,20004,homeimprovement_dur           ,Home Improvements,D,28,-3706.59
+5719,20005,homeimprovement_dur           ,Furnishings,D,6567,-462542.01
+5722,20005,electronicsappls_dur          ,Furnishings,D,1167,-177582.68
+5732,21012,electronicsappls_dur          ,Equipment (Non-Medical),D,11069,-1028505.6
+5733,20020,otherretail_dur               ,Entertainment,D,1715,-131319.28
+5734,20022,electronicsappls_dur          ,Misc. Business ,D,12,-29.69
+5734,21012,electronicsappls_dur          ,Equipment (Non-Medical),D,11619,-238995.39
+5735,20020,otherretail_nondur            ,Entertainment,D,46060,-408076.26
+5811,21011,restaurant_main               ,Professional Services,D,1597,-37449.96
+5812,20009,restaurant_main               ,Restaurant / Bars,D,363488,-10079296.49
+5813,20009,restaurant_alc                ,Restaurant / Bars,D,13585,-388802.79
+5814,20009,restaurant_main               ,Restaurant / Bars,D,600179,-5945751.27
+5815,,,,D,39,-573.97
+5816,,,,D,254,-4252.78
+5817,,,,D,33,-348.25
+5818,,,,D,14,-118.7
+5912,20007,drugstore                     ,Medical Equipment / Supplies,D,125178,-2987797.21
+5921,20016,grocery_alc                   ,Food and Liquor Stores,D,37220,-998939.19
+5931,20022,discountstore                 ,Misc. Business ,D,6783,-174432.57
+5932,20022,homeimprovement_dur           ,Misc. Business ,D,557,-32104.52
+5933,20022,otherretail_nondur            ,Misc. Business ,D,668,-61631.62
+5935,20022,profperslsvcs_main            ,Misc. Business ,D,64,-6823
+5940,20021,otherretail_dur               ,Repairs,D,800,-67742.67
+5941,20019,otherretail_dur               ,Sporting,D,11520,-824932.51
+5942,20018,otherretail_nondur            ,"Books, Periodicals, And Newspapers",D,48327,-1750826
+5943,20018,otherretail_nondur            ,"Books, Periodicals, And Newspapers",D,6200,-234561.91
+5944,20014,otherretail_dur               ,Luxury Items,D,3473,-370005.05
+5945,20020,otherretail_nondur            ,Entertainment,D,12192,-493982.57
+5946,21012,otherretail_dur               ,Equipment (Non-Medical),D,1028,-47008.18
+5947,20015,otherretail_nondur            ,Convenience and Discount Stores,D,10854,-352039.77
+5948,20001,otherretail_nondur            ,Groceries,D,312,-25167.95
+5949,20017,otherretail_nondur            ,Supplies,D,3096,-91135.68
+5950,20014,homeimprovement_dur           ,Luxury Items,D,104,-13557.61
+5960,17008,insurance                     ,Insurance Premiums,D,3009,-386583.99
+5963,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,30,-4326.71
+5964,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,3695,-244788.66
+5965,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,1883,-163064.42
+5966,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,45,-1150.43
+5967,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,1967,-54699.22
+5968,21013,directmktgcatalog             ,Membership / Subscription Fees,D,40854,-806484.17
+5969,21015,directmktgcatalog             ,Mail Order / Telemarketing,D,6738,-452964.66
+5970,20017,otherretail_nondur            ,Supplies,D,6225,-193669.56
+5971,20014,homeimprovement_dur           ,Luxury Items,D,324,-31607.29
+5972,20022,otherretail_nondur            ,Misc. Business ,D,41,-1767.12
+5973,20022,otherretail_nondur            ,Misc. Business ,D,395,-14574.72
+5975,21002,healthcare_equp_oth           ,Medical Services,D,32,-2055
+5976,21002,healthcare_equp_oth           ,Medical Services,D,42,-4626.1
+5977,20017,otherretail_nondur            ,Supplies,D,10989,-550463.76
+5983,21012,fuel                          ,Equipment (Non-Medical),D,263,-64589.29
+5992,21011,homeimprovement_flowr         ,Professional Services,D,1751,-109280.77
+5993,20001,otherretail_nondur            ,Groceries,D,6840,-231463.93
+5994,20018,otherretail_nondur            ,"Books, Periodicals, And Newspapers",D,3188,-43569.46
+5995,20017,otherretail_nondur            ,Supplies,D,16061,-694260.28
+5996,20022,otherretail_pool              ,Misc. Business ,D,752,-60059.21
+5997,21012,otherretail_nondur            ,Equipment (Non-Medical),D,22,-1597.41
+5999,20022,otherretail_nondur            ,Misc. Business ,D,36387,-1567582.67
+6010,,others_main                   ,,D,1271,-524487.97
+6011,,others_main                   ,,D,378096,-45928691.91
+6012,21006,others_main                   ,Financial Services,D,2756,-812532.9
+6051,21006,others_main                   ,Financial Services,D,2129,-470657.72
+6300,17008,insurance                     ,Insurance Premiums,D,21123,-3249966.23
+6513,20022,others_main                   ,Misc. Business ,D,913,-392687.47
+7011,20002,travel_lodging                ,Hotel / Motel,D,3177,-578966.32
+7012,20002,travel_lodging                ,Hotel / Motel,D,349,-77964.9
+7032,20019,entertainment                 ,Sporting,D,280,-28541.09
+7033,20019,travel_lodging                ,Sporting,D,323,-22747.37
+7210,21007,profperslsvcs_main            ,Cleaning Services,D,450,-13981.8
+7211,21007,profperslsvcs_main            ,Cleaning Services,D,1959,-22686.23
+7216,21007,profperslsvcs_main            ,Cleaning Services,D,6744,-213588.95
+7217,21007,profperslsvcs_main            ,Cleaning Services,D,51,-7240.72
+7221,21011,profperslsvcs_main            ,Professional Services,D,884,-45213.91
+7230,21011,profperslsvcs_main            ,Professional Services,D,28987,-1285576.88
+7251,20021,profperslsvcs_main            ,Repairs,D,222,-7671.29
+7261,21011,profperslsvcs_unpred          ,Professional Services,D,102,-31464.71
+7273,20022,profperslsvcs_main            ,Misc. Business ,D,859,-36057.31
+7276,21011,profperslsvcs_main            ,Professional Services,D,397,-71573.39
+7277,21011,profperslsvcs_main            ,Professional Services,D,314,-26113.02
+7278,20022,onlinemarket                  ,Misc. Business ,D,350,-20774.47
+7296,20022,profperslsvcs_main            ,Misc. Business ,D,193,-13472.58
+7297,21002,profperslsvcs_main            ,Medical Services,D,193,-9143.84
+7298,21002,profperslsvcs_main            ,Medical Services,D,5962,-321990.37
+7299,21011,onlinemarket                  ,Professional Services,D,10876,-672525.48
+7311,21011,profperslsvcs_main            ,Professional Services,D,3447,-84862.68
+7321,21011,profperslsvcs_main            ,Professional Services,D,820,-14166.32
+7333,21011,profperslsvcs_main            ,Professional Services,D,436,-29854.64
+7338,21010,profperslsvcs_main            ,Miscellaneous Office Services,D,1789,-22053.6
+7342,21007,profperslsvcs_main            ,Cleaning Services,D,368,-37033.67
+7349,21007,profperslsvcs_main            ,Cleaning Services,D,276,-20185.35
+7361,21011,profperslsvcs_unpred          ,Professional Services,D,58,-1738.29
+7372,21011,electronicsappls_dur          ,Professional Services,D,1255,-46881.86
+7375,21011,profperslsvcs_unpred          ,Professional Services,D,280,-5973.22
+7379,20021,electronicsappls_nondur       ,Repairs,D,261,-20039.1
+7392,21011,profperslsvcs_main            ,Professional Services,D,453,-52940.94
+7393,21011,profperslsvcs_unpred          ,Professional Services,D,1460,-89537.63
+7394,21012,profperslsvcs_main            ,Equipment (Non-Medical),D,2210,-212243.98
+7395,21011,profperslsvcs_main            ,Professional Services,D,309,-16275.4
+7399,20022,onlinemarket                  ,Misc. Business ,D,12922,-663550.21
+7399,21012,onlinemarket                  ,Equipment (Non-Medical),D,11,-24.7
+7512,20008,travel_auto                   ,Car Dealer / Car Rental,D,157,-33799.38
+7513,20008,autodealer_svcs               ,Car Dealer / Car Rental,D,1118,-106830.59
+7523,20012,transitcommute                ,Ground Transportation,D,29740,-256071.89
+7531,20021,autodealer_repair             ,Repairs,D,503,-122593.03
+7534,20021,autodealer_repair             ,Repairs,D,108,-17124.91
+7535,20021,autodealer_repair             ,Repairs,D,19,-3404.06
+7538,20021,autodealer_repair             ,Repairs,D,5712,-805115.62
+7542,21007,autodealer_svcs               ,Cleaning Services,D,13249,-207885.9
+7549,20021,autodealer_repair             ,Repairs,D,241,-38758.9
+7622,20021,electronicsappls_nondur       ,Repairs,D,92,-7399.6
+7623,20021,profperslsvcs_main            ,Repairs,D,24,-4458.12
+7629,20021,electronicsappls_nondur       ,Repairs,D,67,-6659.94
+7631,20021,profperslsvcs_unpred          ,Repairs,D,150,-9156.22
+7641,20021,homeimprovement_dur           ,Repairs,D,11,-1478
+7692,20021,profperslsvcs_main            ,Repairs,D,41,-3298.74
+7699,20021,profperslsvcs_unpred          ,Repairs,D,336,-42907.59
+7829,20020,profperslsvcs_main            ,Entertainment,D,609,-8257.47
+7832,20020,entertainment                 ,Entertainment,D,21673,-412607.21
+7841,20020,entertainment                 ,Entertainment,D,17883,-111548.65
+7911,21001,school                        ,Education,D,645,-62148.25
+7922,20020,entertainment                 ,Entertainment,D,3751,-451307.11
+7929,20020,entertainment                 ,Entertainment,D,560,-24152.48
+7932,20020,entertainment                 ,Entertainment,D,259,-6928.57
+7933,20020,entertainment                 ,Entertainment,D,1477,-37114.2
+7941,20019,entertainment                 ,Sporting,D,852,-34625.8
+7991,20013,entertainment                 ,Travel / Tourism (Not including transportation),D,1520,-70999.71
+7992,20019,entertainment                 ,Sporting,D,2130,-73890.85
+7993,20020,entertainment                 ,Entertainment,D,2761,-170254.32
+7994,20020,entertainment                 ,Entertainment,D,4430,-77179.37
+7995,20020,entertainment                 ,Entertainment,D,119,-9750
+7996,20020,entertainment                 ,Entertainment,D,3563,-203295.8
+7997,20019,entertainment                 ,Sporting,D,17885,-766287.47
+7998,20020,entertainment                 ,Entertainment,D,471,-17391.25
+7999,20019,entertainment                 ,Sporting,D,4118,-232212.54
+8011,21002,healthcare_phys_gen           ,Medical Services,D,10433,-708628.06
+8021,21002,healthcare_dntl               ,Medical Services,D,3758,-701000.52
+8041,21002,healthcare_phys_oth           ,Medical Services,D,1623,-77089.63
+8042,21002,healthcare_optl_gen           ,Medical Services,D,1288,-141119.79
+8043,20007,healthcare_optl_rtl           ,Medical Equipment / Supplies,D,1483,-192247.87
+8049,21002,healthcare_phys_oth           ,Medical Services,D,116,-5996.39
+8050,21002,healthcare_phys_oth           ,Medical Services,D,57,-5014.3
+8062,21002,healthcare_hosp               ,Medical Services,D,4356,-320506.54
+8071,21002,healthcare_phys_oth           ,Medical Services,D,801,-49545.23
+8099,21002,healthcare_svcs_oth           ,Medical Services,D,10573,-654424.3
+8111,21011,profperslsvcs_unpred          ,Professional Services,D,911,-251067.73
+8211,21001,school                        ,Education,D,1655,-95836.16
+8220,21001,school                        ,Education,D,5291,-687280.44
+8241,21001,school                        ,Education,D,37,-2610.76
+8244,21001,school                        ,Education,D,15,-3717.94
+8249,21001,school                        ,Education,D,119,-16974.12
+8299,21001,school                        ,Education,D,4942,-435850.7
+8351,21009,profperslsvcs_main            ,Child Care Services,D,915,-165991.33
+8398,21013,notforprofitorg               ,Membership / Subscription Fees,D,8110,-463647.71
+8641,21013,membershiporg                 ,Membership / Subscription Fees,D,1061,-94614.54
+8651,21013,politcalorg                   ,Membership / Subscription Fees,D,307,-7633.75
+8661,21013,notforprofitorg               ,Membership / Subscription Fees,D,1357,-152237.1
+8675,20008,membershiporg                 ,Car Dealer / Car Rental,D,797,-55298.39
+8699,21013,membershiporg                 ,Membership / Subscription Fees,D,1983,-137132.66
+8734,21011,profperslsvcs_main            ,Professional Services,D,103,-4978.62
+8931,21011,profperslsvcs_main            ,Professional Services,D,1701,-241130.75
+8999,21011,onlinemarket                  ,Professional Services,D,4840,-492668.88
+9211,21014,others_main                   ,Government Misc,D,672,-81880.84
+9222,21014,others_unpred                 ,Government Misc,D,1098,-123230.56
+9223,21006,others_main                   ,Financial Services,D,58,-17068.72
+9311,15004,others_tax                    ,Income Tax Payment,D,1450,-286543.87
+9399,21014,others_main                   ,Government Misc,D,20151,-1263108.2
+9402,21004,others_main                   ,Courier Services / Shipping Services,D,10633,-518449.33
+,10001,,PayPal - Transfer to PayPal,D,1149,-181938.73
+,10004,,PayPal - Bank Verification - Debit,D,123,-25.39
+,10005,,PayPal - E- Check,D,3197,-454305.06
+,10006,,PayPal - Instant Transfer,D,34791,-1631348.12
+,10007,,PayPal - International Transaction,D,4270,-225409.01
+,10012,,PayPal - Bill Me Later,D,279,-38002.28
+,11001,,Transfer to Savings - On Us,D,50025,-14253283.09
+,11002,,Transfer to Savings - Off Us,D,583,-388420.9
+,11003,,Transfer to Investment - On Us,D,227,-83096.42
+,11004,,Transfer to Investment - Off Us,D,3698,-2545474.67
+,11005,,Transfer to DDA - On Us,D,51889,-18791190.95
+,11006,,Transfer to DDA - Off Us,D,807,-553881.47
+,11007,,Transfer to MMA - On Us,D,9840,-10308211.94
+,11019,,Other Transfers Out Of Account - On Us,D,35774,-8902257.08
+,11020,,Other Transfers Out Of Account - Off Us,D,5778,-5436391.5
+,12009,,Payroll - Outflow (Business Expense),D,107,-71847.37
+,15004,,Income Tax Payment,D,2325,-1935673.98
+,16001,,Utility - Telecommunications,D,13579,-1480664.04
+,16003,,Utility - General,D,115381,-14856922.34
+,17001,,American Express Card Payment,D,23048,-21400013.48
+,17002,,Auto Loan Payment,D,20806,-9078972.94
+,17003,,Credit Card Payment (Non-AmEx) - On Us,D,67429,-38202429.72
+,17004,,Credit Card Payment (Non-AmEx) - Off Us,D,113858,-30186326.24
+,17005,,University/College Payments (May include donations),D,44,-87689.91
+,17008,,Insurance Premiums,D,71530,-11426537.32
+,17009,,HELOC Payment,D,1058,-761924.84
+,17010,,Rent Payment,D,1542,-1638356.06
+,17013,,Student Loan Payments,D,14330,-3269484.09
+,17014,,Escrow Payments - On Us,D,1512,-446194.43
+,17015,,Escrow Payments - Off Us,D,174,-112837.48
+,17016,,Other Payments to Financial Institutions,D,1832,-1729897.73
+,18001,,Mortgage Payment - On Us,D,4521,-6378562.99
+,18002,,Mortgage Payment - Off Us,D,16081,-21103849.9
+,20003,,Department Stores,D,12217,-663871.76
+,20020,,Entertainment,D,374,-54497.18
+,21002,,Medical Services,D,58,-21730.66
+,21009,,Child Care Services,D,27,-4872
+,21013,,Membership / Subscription Fees,D,1670,-38093.12
+,,,,D,581295,-207303576.8

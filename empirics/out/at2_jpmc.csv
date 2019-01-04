@@ -1,0 +1,20 @@
+"","jpmc_group","jpmc_category","jpmc_spend_month","ce_spend","ratio_jpmc_ce_month","pce_spend","ratio_jpmc_pce_month"
+"1","ND","Cash and Miscellaneous Nondurables",989,NA,NA,NA,NA
+"2","ND","Drug Stores",13,13,1.01,14,0.93
+"3","ND","Flights",32,35,0.92,38,0.86
+"4","ND","Food Away From Home",216,251,0.86,460,0.47
+"5","ND","Groceries",267,314,0.85,531,0.5
+"6","ND","Ground Transportation",170,194,0.87,237,0.72
+"7","ND","Medical Copay",36,80,0.46,177,0.21
+"8","ND","Professional & Personal Services",78,183,0.42,921,0.08
+"9","ND","Retail Nondurables",225,278,0.81,709,0.32
+"10","ND","Telecom",113,112,1.01,193,0.59
+"11","ND","Utilities",178,211,0.84,210,0.85
+"12","D","Auto Repair",45,230,0.2,168,0.27
+"13","D","Entertainment",35,149,0.24,334,0.11
+"14","D","Home Improvement",55,213,0.26,276,0.2
+"15","D","Hotels & Rental Cars",28,61,0.47,135,0.21
+"16","D","Insurance",148,276,0.54,233,0.64
+"17","D","Miscellaneous Durables",29,261,0.11,298,0.1
+"18","D","Retail Durables",55,90,0.61,199,0.27
+"19","Others","Not in JPMCI",NA,1250,NA,2888,NA

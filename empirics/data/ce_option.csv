@@ -1,0 +1,38 @@
+﻿Group,CE Survey Category,CE Survey Category Description
+ND,Alcoholic beverages,"includes beer and ale, wine, whiskey, gin, vodka, rum, and other alcoholic beverages"
+ND,Apparel and services,"material for making clothes, shoe repair, alterations and repairs, sewing patterns and notions, clothing rental, clothing storage, dry cleaning and sent-out laundry, watches, jewelry, and repairs to watches and jewelry"
+D,Audio and visual equipment and services,"television sets, video recorders, video cassettes, tapes, discs, disc players, video game hardware, video game cartridges, cable TV, radios, phonographs, tape recorders and players, sound components, records, compact discs, and tapes (including records, compact discs, and tapes purchased through mail order clubs), musical instruments, and rental and repair of TV and sound equipment"
+D,Cash contributions,"cash contributed to persons or organizations outside the consumer unit, including alimony and child support payments; care of students away from home; and contributions to religious, educational, charitable, or political organizations"
+ND,Drugs,nonprescription drugs and vitamins and prescription drugs
+D,Education,"tuition; fees; and textbooks, supplies, and equipment for public and private nursery schools, elementary and high schools, colleges and universities, and other schools"
+D,Fees and admissions,"fees for participant sports; admissions to sporting events, movies, concerts, and plays; health, swimming, tennis and country club memberships; fees for other social, recreational, and fraternal organizations; recreational lessons or instruction; rental of movies, and recreation expenses on trips"
+ND,Food at home,food at grocery stores (or other food stores) and food prepared by the consumer unit on trips
+ND,Food away from home,"fast food, take-out, delivery, concession stands, buffet and cafeteria, at full-service restaurants, and at vending machines and mobile vendors; board (including at school), meals as pay, special catered affairs, such as weddings, bar mitzvahs, and confirmations, school lunches, and meals away from home on trips"
+ND,Gasoline and motor oil,"gasoline, diesel fuel, and motor oil"
+ND,Health insurance,"traditional fee-for-service health plans, preferred-provider health plans, health maintenance organizations (HMO's), commercial Medicare supplements, and other health insurance"
+D,Household furnishings and equipment,"household textiles, furnitues, floor coverings, appliances, other household equipment"
+ND,Household operations,"personal services, others"
+D,Housekeeping supplies,"laundry and cleaning, other household products, postage and stationery"
+D,Life and other personal insurance,"premiums for whole life and term insurance; endowments; income and other life insurance; mortgage guarantee insurance; mortgage life insurance; premiums for personal liability, accident and disability, and other nonhealth insurance other than for homes and vehicles"
+ND,Medical,"merging Drugs, Medical Supplies, and Medical Services"
+ND,Medical services,"hospital room and services, physicians' services, service by a professional other than a physician, eye and dental care, lab tests and X-rays, medical care in a retirement community, care in convalescent or nursing home, and other medical care service"
+ND,Medical supplies,"topicals and dressings, antiseptics, bandages, cotton, first aid kits, contraceptives, syringes, ice bags, thermometers, sun lamps, vaporizers, heating pads, medical appliances (such as braces, canes, crutches, walkers, eyeglasses, and hearing aids), and rental and repair of medical equipment"
+ND,Miscellaneous,"safety deposit box rental, checking account fees and other bank service charges, credit card memberships, legal fees, accounting fees, funerals, cemetery lots, union dues, occupational expenses, expenses for other properties, and finance charges other than those for mortgages and vehicles"
+Others,Not comparable,not in bank data
+D,"Other entertainment supplies, equipment, and services","indoor exercise equipment, athletic shoes, bicycles, trailers, purchase and rental of motorized campers and other recreational vehicles, camping equipment, hunting and fishing equipment, sports equipment (winter, water, and other), boats, boat motors and boat trailers, rental of boats, landing and docking fees, rental and repair of sports equipment, photographic equipment and supplies (film and film processing), photographer fees, repair and rental of photo equipment, fireworks, and pinball and electronic video games"
+D,Other lodging,"vacation homes, school, college, hotels, motels, and other lodging while out of town"
+D,Other vehicle expenses,"vehicle finance charges, maintenance and repairs, insurance"
+D,Owned and rented dwellings,"mortgage, property tax, maintenance, repair, insurance, other expense, rent"
+D,Pensions and Social Security,"all Social Security contributions paid by employees; employee contributions to railroad retirement, government retirement, and private pension programs; and retirement programs for the self-employed"
+ND,Personal care products and services,"products for the hair, oral hygiene products, shaving needs, cosmetics and bath products, electric personal care appliances, other personal care products, and personal care services for males and females"
+ND,"Pets, toys, hobbies, and playground equipment","pets, pet food, pet services, veterinary expenses, etc.; toys, games, hobbies, and tricycles; and playground equipment"
+ND,Public and other transportation,"fares for mass transit, buses, trains, airlines, taxis, school buses for which a fee is charged, and boats"
+ND,Reading,"subscriptions for newspapers and magazines; books through book clubs; e-books and digital reading material; and the purchase of single-copy newspapers, magazines, newsletters, books, and encyclopedias and other reference books"
+ND,Tobacco products and smoking supplies,"cigarettes, e-cigarettes, cigars, snuff, loose smoking tobacco, chewing tobacco, and smoking accessories (such as cigarette or cigar holders, pipes, flints, lighters, and pipe cleaners)"
+Others,Uncategorized consumption,all those not comparable in CE
+ND,"Utilities, fuels, and public services","natural gas, electricity, fuel oil and other fuels, telephone service, cellular phone service, water and other public service"
+D,Vehicle purchases (net outlay),cars and trucks
+D,"Vehicle rental, leases, licenses, and other charges","vehicle rental, leases, licenses, and other charges"
+,,
+,,Note: from https://www.bls.gov/cex/2015/aggregate/age.pdf
+,,Note: from https://www.bls.gov/cex/csxgloss.htm#trans
