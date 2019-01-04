@@ -142,3 +142,24 @@ To simply replicate the results, it is sufficient to run one of the scripts abov
  * `est_models_in/` contains `initial_conditions_master.json` for estimating the models in the paper. csv files in the directory are examples of different initial conditions for model estimation. Convert to JSON for estimation using function in `estimate_models_helper.py` 
 * `est_models_out` logs final estimates as JSON files when estimating preference parameters for multiple models at the same time on a cluste. Convert to csv using function in `estimate_models_helper.py` 
 
+MIT License
+
+Copyright (c) 2019 Peter Ganong and Pascal Noel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
