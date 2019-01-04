@@ -4,6 +4,8 @@ By Peter Ganong and Pascal Noel
 
 Please send feedback and questions to ganong@uchicago.edu.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2531618.svg)](https://doi.org/10.5281/zenodo.2531618)
+
 -------
 
 # `empirics` 
@@ -18,12 +20,10 @@ Please send feedback and questions to ganong@uchicago.edu.
 
 - `2_scf.R` uses SCF to produces 
   - statistics for statements in the text:
-    - "We calculate using the SCF that about 15 percent of labor income is paid by paper checks and pre-paid debit cards 
-rather than by direct deposit."
+    - "We calculate using the SCF that about 15 percent of labor income is paid by paper checks and pre-paid debit cards rather than by direct deposit."
     - "90 percent of households reporting UI income in the past year in the SCF had a bank account at the time of the survey."
     - "We estimate using the SCF that 64 percent of UI recipients with a bank account have an outside credit card." 
-    - "According to the Department of Labor Benefit Accuracy Measurement system, in states where the maximum potential 
-duration of UI benefits is six months, about 15 percent of UI recipients are eligible for five months of benefits."
+    - "According to the Department of Labor Benefit Accuracy Measurement system, in states where the maximum potential duration of UI benefits is six months, about 15 percent of UI recipients are eligible for five months of benefits."
   - checking account balance in online Appendix Figure 3 used for representativeness analysis (`out/for_jpmci/scf_ck_bal.csv`).
   - online Appendix Table 6 (`out/for_jpmci/at6_scf_liq_asset.csv`), the distribution of all liquid assets and checking account balances for representativeness analysis.
 
