@@ -119,11 +119,11 @@ To simply replicate the results, it is sufficient to run one of the scripts abov
 
 ### Model Solving, Estimation, and Simulation scripts
  3. `solve_cons.py` - contains a function that takes environment and preference parameters and computes optimal consumption in each period as a function of cash-on-hand. It solves this problem using backwards induction for a finite horizon.
- 4. `job_search.py` extends `solve_cons.py`. Takes environment and preference parameters and computes optimal consumption and job search in each period as a function of cash-on-hand. 
+ 4. `solve_search.py` extends `solve_cons.py`. Takes environment and preference parameters and computes optimal consumption and job search in each period as a function of cash-on-hand. 
     * Agent chooses search effort with an isoelastic cost and with the gains from search equal to V_emp(a) - V_unemp(a).
     * To accomplish the above, we compute a value function which sums over utility in each period. We do not need the value function to compute optimal consumption, but we do need it to compute optimal job search effort.
  5. `sparsity.py` solves the sparse model from Gabaix (2016) in the UI context.
- 6. `estimate_models.py` takes environmental parameters and consumption and job search moments and solves for the preference parameters that generate consumption and job search behavior similar to the moments. Relies on the class in  `job_search.py`. By default, solves for the models in the paper one at a time. Can also be used to solve multiple models at once on a cluster.
+ 6. `estimate_models.py` takes environmental parameters and consumption and job search moments and solves for the preference parameters that generate consumption and job search behavior similar to the moments. Relies on the class in  `solve_search.py`. By default, solves for the models in the paper one at a time. Can also be used to solve multiple models at once on a cluster.
  7. `agent_history.py` With a given set of environmental and preference parameters, simulates employment histories, consumption behavior, and job search behavior for N agents.
 
 ### Plotting and Replication scripts
