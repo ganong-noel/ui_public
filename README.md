@@ -25,16 +25,16 @@ Please send feedback and questions to ganong@uchicago.edu.
     - "We estimate using the SCF that 64 percent of UI recipients with a bank account have an outside credit card." 
     - "According to the Department of Labor Benefit Accuracy Measurement system, in states where the maximum potential duration of UI benefits is six months, about 15 percent of UI recipients are eligible for five months of benefits."
   - checking account balance in online Appendix Figure 3 used for representativeness analysis (`out/for_jpmci/scf_ck_bal.csv`).
-  - online Appendix Table 6 (`out/for_jpmci/at6_scf_liq_asset.csv`), the distribution of all liquid assets and checking account balances for representativeness analysis.
+  - online Appendix Table 6 (`out/at6_scf_liq_asset.csv`), the distribution of all liquid assets and checking account balances for representativeness analysis.
 
 - `3_sipp_extract_cols.R` cleans raw SIPP data by extracting columns we use in our analysis.
 
 - `4_sipp_build_ui_event_study.R` further cleans SIPP data by identifying people receiving UI benefits.
 
 - `5_sipp_who_are_ui_recipients.R` produces 
-  - online appendix Table 5 (`out/for_jpmci/at5_sipp_inc.csv`), representativeness analysis in income between JPMC and SIPP. 
-  - age distribution in online Appendix Figure 3 used for representativeness analysis (`out/sipp_wt_age.csv`).
-  - distribution of income prior to UI receipt in online Appendix Figure 3 used for representativeness analysis (`out/sipp_wt_inc_10k.csv`).
+  - online appendix Table 5 (`out/at5_sipp_inc.csv`), representativeness analysis in income between JPMC and SIPP. 
+  - age distribution in online Appendix Figure 3 used for representativeness analysis (`out/for_jpmci/sipp_wt_age.csv`).
+  - distribution of income prior to UI receipt in online Appendix Figure 3 used for representativeness analysis (`out/for_jpmci/sipp_wt_inc_10k.csv`).
 
 - `6_spending_crosswalk.R` produces spending coverage analysis:
   - online appendix Table 2 (`out/at2_jpmc.csv`), comparison of monthly spending between JPMC and external CE and PCE surveys.
