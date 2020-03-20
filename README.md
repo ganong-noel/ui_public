@@ -1,4 +1,4 @@
-# Ganong and Noel "Consumer Spending During Unemployment: Positive and Normative Implications" (2018) 
+# Ganong and Noel "Consumer Spending During Unemployment: Positive and Normative Implications" (2019) 
 
 By Peter Ganong and Pascal Noel 
 
