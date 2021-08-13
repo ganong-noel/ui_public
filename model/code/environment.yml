@@ -1,0 +1,14 @@
+name: ui_public
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2.7
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - rpy2
+  - xlsxwriter
+  - pathlib2
+  - plotnine

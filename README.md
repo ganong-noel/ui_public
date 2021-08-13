@@ -90,11 +90,11 @@ Some of the data used for this paper were prepared in JPMorganChase Insitute's (
   * ui
   * labor_broad
 
-
 # `model` 
 
 We thank Xian Ng for outstanding research assistance. 
 
+See `model/code/environment.yml` for a Conda environment file which can be used to install the relevant python packages.
 
 ## Directory Structure
  1. `code/` - all estimation and analysis code
@@ -111,7 +111,6 @@ The master scripts in the code directory re-run the code. To call the script fro
 	2. `do_mid.py`: `do_min.py` + computes the standard errors on the parameter estimates, and performs the welfare simulations in the paper.  
 	3. `do_all.py`: `do_mid.py` + estimates the model parameters again using model targets from JPMCI data.  
 To simply replicate the results, it is sufficient to run one of the scripts above. 
-
 
 ### Setup scripts
  1. `setup_estimation_parameters.py` reads in `Parameters/params_ui_reemp.json` to build the estimation environment 
